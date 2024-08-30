@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**dthigpen/dthigpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack Software Engineer writing React and Python applications.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+  - 📈 Personal finance tools for tracking expenses
+  - 🏠 Home automation with [Home Assistant](https://www.home-assistant.io/) and [Plombery](https://github.com/lucafaggianelli/plombery)
+- 🧑‍🔬 I'm currently experimenting with:
+  - 🌐 Framework-less web development
+  - 🌱 Sustainable software and technologies
+- 💬 Ask me about my [dotfiles](https://github.com/dthigpen/dotfiles)
+<!-- - 🌱 I’m currently learning -->
+<!-- - 📫 How to reach me: ... -->
