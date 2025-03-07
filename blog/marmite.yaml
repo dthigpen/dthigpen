@@ -30,8 +30,8 @@ menu:
   - tags.html
 - - Archive
   - archive.html
-- - Authors
-  - authors.html
+- - About Me
+  - about.html
 extra:
   colorscheme: nord
 authors: {}
