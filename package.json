@@ -1,0 +1,14 @@
+{
+  "name": "dthigpen",
+  "version": "1.0.0",
+  "description": "I'm a full-stack Software Engineer writing React and Python applications.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d site"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
